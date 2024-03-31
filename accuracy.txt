@@ -1,0 +1,6 @@
+Accuracy of Max. Temp is : 0.78
+Air Quality Index Accuracy :  0.940
+Sea level Accuracy : 0.95
+Rainfall Accuracy : 0.85
+Accuracy of Min. Temp  is : 0.80
+Ozone Accuracy : 0.75 
